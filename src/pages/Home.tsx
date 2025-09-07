@@ -1,14 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import personalData from '../data/personal.json';
-import researchData from '../data/research.json';
-import productsData from '../data/products.json';
-import skillsData from '../data/skills.json';
+// import researchData from '../data/research.json';
+// import productsData from '../data/products.json';
+// import skillsData from '../data/skills.json';
 
 const Home: React.FC = () => {
-  const featuredProducts = productsData.slice(0, 3);
-  const frontendSkills = skillsData.filter(skill => skill.category === 'frontend').slice(0, 4);
-  const researchSkills = skillsData.filter(skill => skill.category === 'research').slice(0, 4);
+  // const featuredProducts = productsData.slice(0, 3);
+  // const frontendSkills = skillsData.filter(skill => skill.category === 'frontend').slice(0, 4);
+  // const researchSkills = skillsData.filter(skill => skill.category === 'research').slice(0, 4);
 
   return (
     <div className="min-h-screen bg-black text-terminal-green font-mono">
