@@ -1,0 +1,93 @@
+[
+  {
+    "id": "phase-field-2024",
+    "title": "A novel phase-field/immersed-boundary algorithm for two-phase fluid–structure interaction simulation",
+    "authors": ["Axis Wang", "Co-author 1", "Co-author 2"],
+    "journal": "Physics of Fluids",
+    "year": 2024,
+    "type": "journal",
+    "link": "https://doi.org/10.1063/5.0123456"
+  },
+  {
+    "id": "compound-droplet-2024",
+    "title": "The reverse-encapsulation and core-release process of a compound droplet under thermocapillary effects",
+    "authors": ["Axis Wang", "Co-author 1"],
+    "journal": "International Journal of Heat and Mass Transfer",
+    "year": 2024,
+    "type": "journal",
+    "link": "https://doi.org/10.1016/j.ijheatmasstransfer.2024.126468"
+  },
+  {
+    "id": "phase-field-method-2024",
+    "title": "An Accurate Phase Field Method for 2-Phase Flow With Soluble Surfactants",
+    "authors": ["Axis Wang", "Co-author 1", "Co-author 2"],
+    "journal": "Applied Mathematics and Mechanics",
+    "year": 2024,
+    "type": "journal",
+    "link": "https://doi.org/10.1007/s10483-024-3175-6"
+  },
+  {
+    "id": "patent-cooling-guide",
+    "title": "A pressure-resistant cooling guide tube structure for micro-engine testing",
+    "authors": ["Axis Wang"],
+    "journal": "Chinese Patent",
+    "year": 2023,
+    "type": "patent"
+  },
+  {
+    "id": "patent-flow-prediction",
+    "title": "An efficient and oscillation-free two-phase flow pattern prediction method for offshore oil and gas pipelines",
+    "authors": ["Axis Wang", "Co-inventor 1"],
+    "journal": "Chinese Patent",
+    "year": 2023,
+    "type": "patent"
+  },
+  {
+    "id": "patent-projection-method",
+    "title": "A fully decoupled projection method for heterogeneous parallel two-phase numerical wave tank systems",
+    "authors": ["Axis Wang", "Co-inventor 1", "Co-inventor 2"],
+    "journal": "Chinese Patent",
+    "year": 2023,
+    "type": "patent"
+  },
+  {
+    "id": "patent-power-generation",
+    "title": "A multi-energy complementary power generation device based on bismuth bromide thin film materials for oscillating water columns",
+    "authors": ["Axis Wang", "Co-inventor 1"],
+    "journal": "Chinese Patent",
+    "year": 2023,
+    "type": "patent"
+  },
+  {
+    "id": "software-turbojet",
+    "title": "Micro Turbojet Performance Test Management Platform",
+    "authors": ["Axis Wang"],
+    "journal": "Software Copyright",
+    "year": 2023,
+    "type": "software"
+  },
+  {
+    "id": "software-gnn-finance",
+    "title": "Graph Neural Network-based Quantitative Finance Analysis System",
+    "authors": ["Axis Wang"],
+    "journal": "Software Copyright",
+    "year": 2023,
+    "type": "software"
+  },
+  {
+    "id": "software-lecture-management",
+    "title": "One-stop Lecture Management Platform",
+    "authors": ["Axis Wang"],
+    "journal": "Software Copyright",
+    "year": 2023,
+    "type": "software"
+  },
+  {
+    "id": "software-coupling-simulation",
+    "title": "Gas-Liquid-Solid Coupling Simulation System for Offshore Floating Platforms Based on Immersed Boundary Method",
+    "authors": ["Axis Wang", "Co-author 1"],
+    "journal": "Software Copyright",
+    "year": 2023,
+    "type": "software"
+  }
+]

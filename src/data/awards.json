@@ -1,0 +1,37 @@
+[
+  {
+    "id": "national-scholarship-2023",
+    "title": "National Scholarship",
+    "organization": "Ministry of Education of China",
+    "year": 2023,
+    "description": "Awarded for outstanding academic performance and research achievements in computational fluid dynamics."
+  },
+  {
+    "id": "outstanding-graduate-2023",
+    "title": "Outstanding Graduate Student",
+    "organization": "University",
+    "year": 2023,
+    "description": "Recognition for exceptional research contributions and academic excellence."
+  },
+  {
+    "id": "innovation-award-2022",
+    "title": "Innovation Award",
+    "organization": "Research Institute",
+    "year": 2022,
+    "description": "Awarded for innovative research in phase-field methods and fluid-structure interaction."
+  },
+  {
+    "id": "best-paper-2022",
+    "title": "Best Paper Award",
+    "organization": "International Conference on Computational Fluid Dynamics",
+    "year": 2022,
+    "description": "Recognition for outstanding research paper on multiphase flow simulation."
+  },
+  {
+    "id": "academic-excellence-2021",
+    "title": "Academic Excellence Award",
+    "organization": "Graduate School",
+    "year": 2021,
+    "description": "Awarded for maintaining highest academic standards and research productivity."
+  }
+]

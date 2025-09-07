@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace;
+  line-height: 1.6;
+  font-weight: 400;
+  
+  /* Terminal color scheme */
+  --terminal-bg: #000000;
+  --terminal-text: #00ff00;
+  --terminal-text-dim: #008000;
+  --terminal-text-bright: #00ff41;
+  --terminal-border: #404040;
+  --terminal-cursor: #00ff00;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Global terminal styles */
+body {
+  background-color: var(--terminal-bg);
+  color: var(--terminal-text);
+  font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Terminal cursor animation */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.terminal-cursor::after {
+  content: '_';
+  animation: blink 1s infinite;
+  color: var(--terminal-cursor);
+}
+
+/* Terminal link styles */
+a {
+  color: var(--terminal-text);
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--terminal-text-bright);
+}
+
+/* Terminal button styles */
+.terminal-button {
+  background: transparent;
+  border: 1px solid var(--terminal-text);
+  color: var(--terminal-text);
+  padding: 0.5rem 1rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.terminal-button:hover {
+  background: var(--terminal-text);
+  color: var(--terminal-bg);
+}
+
+/* Scrollbar styling for terminal theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--terminal-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--terminal-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--terminal-text-dim);
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Next.js",
+    "category": "frontend",
+    "level": 5
+  },
+  {
+    "name": "React",
+    "category": "frontend",
+    "level": 5
+  },
+  {
+    "name": "TypeScript",
+    "category": "frontend",
+    "level": 5
+  },
+  {
+    "name": "JavaScript",
+    "category": "frontend",
+    "level": 5
+  },
+  {
+    "name": "SwiftUI",
+    "category": "frontend",
+    "level": 4
+  },
+  {
+    "name": "C++",
+    "category": "backend",
+    "level": 5
+  },
+  {
+    "name": "Python",
+    "category": "backend",
+    "level": 5
+  },
+  {
+    "name": "Node.js",
+    "category": "backend",
+    "level": 4
+  },
+  {
+    "name": "PyTorch",
+    "category": "backend",
+    "level": 5
+  },
+  {
+    "name": "CUDA",
+    "category": "backend",
+    "level": 4
+  },
+  {
+    "name": "OpenFOAM",
+    "category": "backend",
+    "level": 5
+  },
+  {
+    "name": "Basilisk",
+    "category": "backend",
+    "level": 4
+  },
+  {
+    "name": "OpenCascade",
+    "category": "backend",
+    "level": 3
+  },
+  {
+    "name": "Matlab",
+    "category": "backend",
+    "level": 4
+  },
+  {
+    "name": "Git",
+    "category": "tools",
+    "level": 5
+  },
+  {
+    "name": "Shell",
+    "category": "tools",
+    "level": 4
+  },
+  {
+    "name": "CMake",
+    "category": "tools",
+    "level": 4
+  },
+  {
+    "name": "OpenMP",
+    "category": "tools",
+    "level": 4
+  },
+  {
+    "name": "MPI",
+    "category": "tools",
+    "level": 4
+  },
+  {
+    "name": "OpenACC",
+    "category": "tools",
+    "level": 3
+  }
+]

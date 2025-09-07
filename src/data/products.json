@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ai4papers",
+    "name": "AI4Papers",
+    "description": "Automatically matches and retrieves the latest papers in researchers' fields.",
+    "technologies": ["AI", "Machine Learning", "Natural Language Processing", "Academic Research"],
+    "link": "https://ai4papers.com",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20AI%20research%20platform%20interface%20with%20academic%20papers%20and%20search%20functionality&image_size=landscape_4_3",
+    "status": "active"
+  },
+  {
+    "id": "video2ppt",
+    "name": "Video2PPT",
+    "description": "Converts videos from any source into PowerPoint presentations.",
+    "technologies": ["Video Processing", "AI", "Computer Vision", "Presentation Generation"],
+    "link": "https://video2ppt.com",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=video%20to%20presentation%20conversion%20tool%20interface%20with%20video%20player%20and%20slides&image_size=landscape_4_3",
+    "status": "active"
+  },
+  {
+    "id": "view-pair",
+    "name": "View-Pair",
+    "description": "A split-screen application for viewing two online videos simultaneously.",
+    "technologies": ["Web Development", "Video Streaming", "React", "Responsive Design"],
+    "link": "https://viewpair.com",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=split%20screen%20video%20player%20interface%20showing%20two%20videos%20side%20by%20side&image_size=landscape_4_3",
+    "status": "active"
+  },
+  {
+    "id": "supasubmit",
+    "name": "SupaSubmit",
+    "description": "AI agent for form-filling automation and intelligent data entry.",
+    "technologies": ["AI", "Automation", "Form Processing", "Machine Learning"],
+    "link": "https://supasubmit.com",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=AI%20form%20automation%20interface%20with%20smart%20data%20entry%20and%20processing&image_size=landscape_4_3",
+    "status": "active"
+  },
+  {
+    "id": "xiaozishu",
+    "name": "XiaoZiShu",
+    "description": "AI research agent for intelligent academic research assistance.",
+    "technologies": ["AI", "Research Assistant", "Natural Language Processing", "Academic Tools"],
+    "link": "https://xiaozishu.com",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=AI%20research%20assistant%20interface%20with%20academic%20papers%20and%20analysis%20tools&image_size=landscape_4_3",
+    "status": "active"
+  },
+  {
+    "id": "fabu",
+    "name": "Fabu",
+    "description": "A SaaS launch platform.",
+    "technologies": ["SaaS", "Platform Development", "Full Stack", "Cloud Services"],
+    "link": "https://fabu.com",
+    "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20SaaS%20platform%20dashboard%20with%20launch%20tools%20and%20analytics&image_size=landscape_4_3",
+    "status": "active"
+  }
+]

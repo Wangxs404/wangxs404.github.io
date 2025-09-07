@@ -1,0 +1,30 @@
+[
+  {
+    "id": "floating-wind",
+    "title": "Floating Wind Turbines",
+    "description": "Exploring innovative designs for offshore wind energy production, focusing on stability and efficiency in deep-sea environments.",
+    "technologies": [
+      "Computational Fluid Dynamics",
+      "Structural Analysis",
+      "Ocean Engineering",
+      "Renewable Energy",
+      "Numerical Simulation"
+    ],
+    "icon": "wind"
+  },
+  {
+    "id": "computational-fluid",
+    "title": "Computational Fluid Dynamics",
+    "description": "Specializing in multiphase flow, incompressible fluid algorithms, and numerical solutions of Navier-Stokes equations.",
+    "technologies": [
+      "Multiphase Flow",
+      "Incompressible Fluid Algorithms",
+      "Navier-Stokes Equations",
+      "Numerical Methods",
+      "High Performance Computing",
+      "OpenFOAM",
+      "Basilisk"
+    ],
+    "icon": "waves"
+  }
+]
