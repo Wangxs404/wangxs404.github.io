@@ -22,7 +22,7 @@
     "name": "View-Pair",
     "description": "A split-screen application for viewing two online videos simultaneously.",
     "technologies": ["Web Development", "Video Streaming", "React", "Responsive Design"],
-    "link": "https://viewpair.com",
+    "link": "https://view-pair.fun",
     "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=split%20screen%20video%20player%20interface%20showing%20two%20videos%20side%20by%20side&image_size=landscape_4_3",
     "status": "active"
   },
@@ -40,7 +40,7 @@
     "name": "XiaoZiShu",
     "description": "AI research agent for intelligent academic research assistance.",
     "technologies": ["AI", "Research Assistant", "Natural Language Processing", "Academic Tools"],
-    "link": "https://xiaozishu.com",
+    "link": "https://xiaozishu.org",
     "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=AI%20research%20assistant%20interface%20with%20academic%20papers%20and%20analysis%20tools&image_size=landscape_4_3",
     "status": "active"
   },
@@ -49,7 +49,7 @@
     "name": "Fabu",
     "description": "A SaaS launch platform.",
     "technologies": ["SaaS", "Platform Development", "Full Stack", "Cloud Services"],
-    "link": "https://fabu.com",
+    "link": "https://fabu.dev",
     "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20SaaS%20platform%20dashboard%20with%20launch%20tools%20and%20analytics&image_size=landscape_4_3",
     "status": "active"
   }

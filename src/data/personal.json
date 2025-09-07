@@ -1,9 +1,8 @@
 {
   "name": "Axis Wang",
   "title": "Tsinghua PhD | Indie Hacker | INTP | ShenZhen.CN",
-  "location": "深圳",
-  "description": "清华博士，独立开发者，专注于浮式风力发电机和计算流体力学研究，同时开发多款AI产品。",
-  "avatar": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=professional%20portrait%20of%20a%20young%20asian%20male%20researcher%20with%20glasses%2C%20clean%20background%2C%20academic%20style%2C%20confident%20expression&image_size=square",
+  "location": "ShenZhen CN",
+  "avatar": "/images/avatar.jpg",
   "social": [
     {
       "name": "GitHub",
@@ -17,12 +16,12 @@
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/axiswang",
+      "url": "https://www.linkedin.com/in/axis-wang-35708127a/",
       "icon": "linkedin"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/axiswang",
+      "url": "https://twitter.com/wangxsNB",
       "icon": "twitter"
     }
   ]

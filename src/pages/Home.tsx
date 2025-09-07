@@ -33,7 +33,7 @@ const Home: React.FC = () => {
           <div className="ml-4 space-y-2">
             <div className="text-2xl font-bold">{personalData.name}</div>
             <div className="text-lg opacity-80">{personalData.title}</div>
-            <div className="opacity-70 max-w-2xl">{personalData.description}</div>
+            {/* <div className="opacity-70 max-w-2xl">{personalData.description}</div> */}
           </div>
         </div>
 
