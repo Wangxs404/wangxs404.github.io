@@ -8,12 +8,12 @@ export default function Development() {
   useEffect(() => {
     // Load products data
     import('../data/products.json').then((data) => {
-      setProducts(data.default);
+      setProducts(data.default as Product[]);
     });
 
     // Load skills data
     import('../data/skills.json').then((data) => {
-      setSkills(data.default.filter(skill => 
+      setSkills((data.default as Skill[]).filter(skill => 
         skill.category === 'frontend' || 
         skill.category === 'backend' || 
         skill.category === 'tools'
